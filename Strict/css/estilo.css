@@ -1,0 +1,91 @@
+h1, h2, h3, h4, p, span, strong, a, button
+        {
+            font-family: sans-serif;
+        }
+        h1, h2, h3, h4
+        {
+            margin: 0;
+            padding: 0;
+        }
+        hr
+        {
+            border-color: hsl(203deg 96% 53%);
+            width: 500px;
+        }
+        .bg-1
+        {
+            background-color: #f6f9f9;
+        }
+        .contenedor
+        {
+            width: 1100px;
+            margin: 0 auto;
+        }
+        .caja-servicios
+        {
+            width: 33.3333%;
+            padding: 70px 25px;
+            font-size: 16px;
+            text-align: center;
+        }
+        .caja-servicios img
+        {
+            margin-bottom: 15px;
+        }
+        .caja-servicios h2
+        {
+            padding-bottom: 15px;
+        }
+        .c1
+        {
+            color: #2d3950;
+        }
+        .c2
+        {
+            color: gray;
+        }
+        .caja-galeria
+        {
+            width: 33.3333%;
+            padding: 0 25px;
+        }
+        .pd-90
+        {
+            padding: 90px 0;
+        }
+        .fila
+        {
+            display: flex;
+            padding-bottom: 30px;
+        }
+        .stay
+        {
+            text-align: center;
+           
+        }
+        .form-input
+        {
+            
+            max-width: 500px;
+          width: 100%;
+          padding: 18px;
+          background-color: transparent;
+          border: 1px solid gray;
+          border-radius: 2px;
+          align-items: center;
+          margin-bottom: 20px;
+        }
+        .redes-sociales a
+        {
+            background-color: #15a4fa;
+            width: 40px;
+            height: 40px;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            text-decoration: none;
+        }
+        .redes-sociales i
+        {
+            color: white;
+        }
